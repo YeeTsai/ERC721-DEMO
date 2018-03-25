@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "红白狮",
+    "picture": "images/hongbs.jpg",
+    "price": 2
+  },
+  {
+    "id": 1,
+    "name": "黑白狮",
+    "picture": "images/heibs.jpg",
+    "price": 4
+  },
+  {
+    "id": 2,
+    "name": "红顶五花狮",
+    "picture": "images/hdwhs.jpg",
+    "price": 7
+  },
+  {
+    "id": 3,
+    "name": "玉顶红白狮",
+    "picture": "images/ydhb.jpg",
+    "price": 3
+  }
+]
